@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#F6F8F8"/>
+  <rect width="1200" height="12" fill="#126B7A"/>
+  <g transform="translate(110,140)">
+    <path d="M0 0 h240 v300 l-40 -27 -40 27 -40 -27 -40 27 -40 -27 -40 27 Z" fill="#FFFFFF" stroke="#126B7A" stroke-width="14"/>
+    <path d="M48 66 h144 M48 122 h144 M48 178 h88" stroke="#126B7A" stroke-width="14" stroke-linecap="round"/>
+    <circle cx="210" cy="266" r="72" fill="#218739"/>
+    <path d="M176 266 l24 24 L244 242" stroke="#fff" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  </g>
+  <text x="470" y="258" font-family="'IBM Plex Sans', 'DejaVu Sans', sans-serif" font-size="82" font-weight="700" fill="#172326">e-Receipts</text>
+  <text x="474" y="334" font-family="'DejaVu Sans', sans-serif" font-size="36" font-weight="700" fill="#126B7A">A receipt anyone can check.</text>
+  <text x="474" y="398" font-family="'DejaVu Sans', sans-serif" font-size="26" fill="#3B4A4E">Digital receipts customers keep and anyone can</text>
+  <text x="474" y="436" font-family="'DejaVu Sans', sans-serif" font-size="26" fill="#3B4A4E">verify — standalone or connected to your POS.</text>
+  <rect y="566" width="1200" height="64" fill="#082E35"/>
+  <text x="88" y="607" font-family="'DejaVu Sans', sans-serif" font-size="26" font-weight="700" fill="#F6F8F8">e-receipts.cseco.co.ke</text>
+  <text x="880" y="607" font-family="'DejaVu Sans', sans-serif" font-size="24" fill="#BFD3D6">A kilimo.tech product</text>
+</svg>
